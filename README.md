@@ -11,10 +11,8 @@ I build tools that improve clinical reasoning, bedside decision support, and hea
 - Data-driven clinical education tools
 - Health workflow optimization
 
-## Current Projects
-- **RNBrain** – structured clinical reasoning and care-plan engine
-- **My RN Assistant** – bedside reference and workflow support tool
-- **NewsMani Archive** – journalism archive and publishing platform
+## Current Live Projects
+- **Found on INAMCO.ORG**
 
 ## Background
 - Registered Nurse (California)
